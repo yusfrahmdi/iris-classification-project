@@ -1,0 +1,1 @@
+Iris Classification Project using Python and K-Nearest Neighbors (KNN). This project involves the analysis and classification of the Iris flower dataset, employing techniques such as model training and evaluation using metrics like accuracy, precision, and recall. The code is well-documented, and results are visualized for better understanding.
